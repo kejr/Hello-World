@@ -13,6 +13,7 @@ namespace WebApplication1
         {
             int j = 1;
             int y = 0;
+            int x = 0;
         }
     }
 }
